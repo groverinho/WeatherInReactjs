@@ -34,9 +34,10 @@ const url = "http://api.openweathermap.org/data/2.5/weather";
         })
     }
     render = () => {
+        const  {onWeatherLocationClick} = this.props;
         const {city, data} = this.state;
         return(
-            <div className="weatherLocationCont">
+            <div className="weatherLocationCont" onClick={onWeatherLocationClick}>
                  <Location city={city}/>
                  {data ? <WeatherData data={data}/> : <CircularProgress size={60} thickness={7} />}
              </div>
@@ -44,7 +45,8 @@ const url = "http://api.openweathermap.org/data/2.5/weather";
      };
  }
 WeatherLocation.propTypes = {
-     city: PropTypes.string
+     city: PropTypes.string,
+    onWeatherLocationClick: PropTypes.func,
 };
 
  export default  WeatherLocation;
