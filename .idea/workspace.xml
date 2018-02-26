@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="426355e3-7c1e-4f9f-8355-b9af595022c9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/App.css" afterPath="$PROJECT_DIR$/src/App.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/App.js" afterPath="$PROJECT_DIR$/src/App.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/LocationList.js" afterPath="$PROJECT_DIR$/src/components/LocationList.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/WeatherLocation/index.js" afterPath="$PROJECT_DIR$/src/components/WeatherLocation/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/WeatherLocation/styles.css" afterPath="$PROJECT_DIR$/src/components/WeatherLocation/styles.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,8 +27,8 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/WeatherLocation/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="36" column="29" lean-forward="true" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+            <state relative-caret-position="432">
+              <caret line="36" column="29" lean-forward="false" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="e#43#82#0" expanded="true" />
@@ -32,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LocationList.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LocationList.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/LocationList.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+            <state relative-caret-position="240">
+              <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="36" />
               <folding>
                 <element signature="e#43#69#0" expanded="true" />
               </folding>
@@ -91,30 +96,18 @@
       <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/WeatherLocation/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+            <state relative-caret-position="48">
+              <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/WeatherLocation/WeatherData/index.js">
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="35" />
-              <folding>
-                <element signature="e#1#43#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="46" column="107" lean-forward="false" selection-start-line="46" selection-start-column="107" selection-end-line="46" selection-end-column="107" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -123,14 +116,24 @@
       <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="10" column="51" lean-forward="false" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+            <state relative-caret-position="252">
+              <caret line="21" column="41" lean-forward="false" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
-                <marker date="1519420624717" expanded="true" signature="459:663" ph="..." />
-                <marker date="1519420624717" expanded="true" signature="487:639" ph="..." />
-                <marker date="1519420624717" expanded="true" signature="527:626" ph="..." />
+                <marker date="1519670164239" expanded="true" signature="591:1127" ph="..." />
+                <marker date="1519670164239" expanded="true" signature="604:1099" ph="..." />
+                <marker date="1519670164239" expanded="true" signature="805:912" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="332">
+              <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -140,8 +143,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -181,10 +184,12 @@
         <option value="$PROJECT_DIR$/src/constants/weathers.js" />
         <option value="$PROJECT_DIR$/src/components/WeatherLocation/WeatherData/WeatherTemperature.js" />
         <option value="$PROJECT_DIR$/src/services/transformWeather.js" />
-        <option value="$PROJECT_DIR$/src/components/WeatherLocation/styles.css" />
         <option value="$PROJECT_DIR$/src/components/WeatherLocation/index.js" />
+        <option value="$PROJECT_DIR$/src/App.css" />
         <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/components/WeatherLocation/styles.css" />
         <option value="$PROJECT_DIR$/src/components/LocationList.js" />
+        <option value="$PROJECT_DIR$/src/components/styles.css" />
       </list>
     </option>
   </component>
@@ -263,28 +268,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WeatherInReactjs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WeatherInReactjs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WeatherLocation" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -401,7 +384,7 @@
       <workItem from="1518099864827" duration="1533000" />
       <workItem from="1518113813164" duration="20487000" />
       <workItem from="1519046287981" duration="24493000" />
-      <workItem from="1519329817040" duration="3849000" />
+      <workItem from="1519329817040" duration="6388000" />
     </task>
     <task id="LOCAL-00001" summary="practicing reactjs">
       <created>1519328573412</created>
@@ -414,7 +397,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59956000" />
+    <option name="totallyTimeSpent" value="62495000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1405" y="-3" width="1327" height="771" extended-state="6" />
@@ -537,9 +520,9 @@
           <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
-            <marker date="1519420624717" expanded="true" signature="459:663" ph="..." />
-            <marker date="1519420624717" expanded="true" signature="487:639" ph="..." />
-            <marker date="1519420624717" expanded="true" signature="527:626" ph="..." />
+            <marker date="1519670164239" expanded="true" signature="591:1127" ph="..." />
+            <marker date="1519670164239" expanded="true" signature="604:1099" ph="..." />
+            <marker date="1519670164239" expanded="true" signature="805:912" ph="..." />
           </folding>
         </state>
       </provider>
@@ -585,6 +568,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -647,9 +631,9 @@
           <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
-            <marker date="1519420624717" expanded="true" signature="459:663" ph="..." />
-            <marker date="1519420624717" expanded="true" signature="487:639" ph="..." />
-            <marker date="1519420624717" expanded="true" signature="527:626" ph="..." />
+            <marker date="1519670164239" expanded="true" signature="591:1127" ph="..." />
+            <marker date="1519670164239" expanded="true" signature="604:1099" ph="..." />
+            <marker date="1519670164239" expanded="true" signature="805:912" ph="..." />
           </folding>
         </state>
       </provider>
@@ -706,9 +690,9 @@
           <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
-            <marker date="1519420624717" expanded="true" signature="459:663" ph="..." />
-            <marker date="1519420624717" expanded="true" signature="487:639" ph="..." />
-            <marker date="1519420624717" expanded="true" signature="527:626" ph="..." />
+            <marker date="1519670164239" expanded="true" signature="591:1127" ph="..." />
+            <marker date="1519670164239" expanded="true" signature="604:1099" ph="..." />
+            <marker date="1519670164239" expanded="true" signature="805:912" ph="..." />
           </folding>
         </state>
       </provider>
@@ -730,6 +714,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -795,18 +780,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/WeatherLocation/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/WeatherLocation/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="36" column="29" lean-forward="true" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+        <state relative-caret-position="432">
+          <caret line="36" column="29" lean-forward="false" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#43#82#0" expanded="true" />
@@ -814,26 +791,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="51" lean-forward="false" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+        <state relative-caret-position="252">
+          <caret line="21" column="41" lean-forward="false" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
-            <marker date="1519420624717" expanded="true" signature="459:663" ph="..." />
-            <marker date="1519420624717" expanded="true" signature="487:639" ph="..." />
-            <marker date="1519420624717" expanded="true" signature="527:626" ph="..." />
+            <marker date="1519670164239" expanded="true" signature="591:1127" ph="..." />
+            <marker date="1519670164239" expanded="true" signature="604:1099" ph="..." />
+            <marker date="1519670164239" expanded="true" signature="805:912" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/WeatherLocation/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/LocationList.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        <state relative-caret-position="240">
+          <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="36" />
           <folding>
             <element signature="e#43#69#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

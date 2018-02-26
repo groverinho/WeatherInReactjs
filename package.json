@@ -8,6 +8,8 @@
     "prop-types": "^15.6.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
+    "react-flexbox": "^3.1.4",
+    "react-flexbox-grid": "^2.0.0",
     "react-materialize": "^1.1.2",
     "react-scripts": "1.1.0",
     "react-weathericons": "^1.0.4"
